@@ -1,6 +1,6 @@
-![Group.png](quiver-image-url/3ED35681C0B24CAD621B884F992694E0.png =743x229)
+![Group.png](./Group.png)
 
-##How do I envision it?
+## How do I envision it?
 You, as a busy (bro/ho)grammer, want a command line utility that lets you type statements like
 
 > I need to study Algorithms for 2 hours by today
