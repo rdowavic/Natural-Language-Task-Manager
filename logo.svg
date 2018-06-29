@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="743px" height="229px" viewBox="0 0 743 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-14.000000, -13.000000)">
+            <text id="Natural-Language-Tas" font-family="AndaleMono, Andale Mono" font-size="72" font-weight="normal" fill="#000000">
+                <tspan x="199" y="65">Natural </tspan>
+                <tspan x="199" y="146">Language Task </tspan>
+                <tspan x="199" y="227">Manager</tspan>
+            </text>
+            <g id="message">
+                <g id="icon-message">
+                    <polygon id="bounds" transform="translate(86.500000, 84.841592) scale(1, -1) translate(-86.500000, -84.841592) " points="173 0.0805022608 0 0.0805022608 0 169.602682 173 169.602682"></polygon>
+                    <path d="M28.8333333,13.2982139 C20.9041667,13.2982139 14.4166667,19.6960556 14.4166667,27.5156398 L14.4166667,155.472473 L43.25,127.037621 L144.166667,127.037621 C152.095833,127.037621 158.583333,120.63978 158.583333,112.820195 L158.583333,27.5156398 C158.583333,19.6960556 152.095833,13.2982139 144.166667,13.2982139 L28.8333333,13.2982139 Z" id="Shape" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

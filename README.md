@@ -1,4 +1,4 @@
-![Group.png](./Group.png)
+![Group.png](./logo.svg)
 
 ## How do I envision it?
 You, as a busy (bro/ho)grammer, want a command line utility that lets you type statements like
